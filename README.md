@@ -4,7 +4,7 @@ This is my first **Flutter** project without following any tutorials. *Just the 
 The design in this login UI is the implementation of [Sahil Vhora](https://dribbble.com/iamsahilvhora) Password reset flow [design](https://dribbble.com/shots/14324778-Password-Reset-Flow) on [Dribbble](dribbble.com).
 
 ## Design by Sahil Vhora
-<img src="https://github.comAbdulrasheed/login_ui_1/screenshots/login_ui_1.png" alt="Original design" height="480"/>
+<img src="https://github.com/Abdulrasheed1729/login_ui_1/blob/master/screenshots/login_ui_1.png" alt="Original design" height="480"/>
 
 ## My Implementations
 <img src="https://github.com/Abdulrasheed1729/login_ui_1/blob/master/screenshots/Screenshot_1.png" alt="My implementation" height="480"/>
