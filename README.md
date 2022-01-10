@@ -7,9 +7,9 @@ The design in this login UI is the implementation of [Sahil Vhora](https://dribb
 <img src="https://github.comAbdulrasheed/login_ui_1/screenshots/login_ui_1.png" alt="Original design" height="480"/>
 
 ## My Implementations
-<img src="https://github.comAbdulrasheed1729/blob/master/login_ui_1/screenshots/Screenshot_1.png" alt="My implementation" height="480"/>
-<img src="https://github.comAbdulrasheed1729/blob/master/login_ui_1/screenshots/Screenshot_2.png" alt="My implementation" height="480"/>
-<img src="https://github.comAbdulrasheed1729/blob/master/login_ui_1/screenshots/Screenshot_3.png" alt="My implementation" height="480"/>
+<img src="https://github.comAbdulrasheed1729/login_ui_1/blob/master/screenshots/Screenshot_1.png" alt="My implementation" height="480"/>
+<img src="https://github.comAbdulrasheed1729/login_ui_1/blob/master/screenshots/Screenshot_2.png" alt="My implementation" height="480"/>
+<img src="https://github.comAbdulrasheed1729/login_ui_1/blob/master/screenshots/Screenshot_3.png" alt="My implementation" height="480"/>
 
 
 
