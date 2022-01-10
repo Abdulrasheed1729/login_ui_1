@@ -3,6 +3,9 @@
 This is my first **Flutter** project without following any tutorials. *Just the documentation.:)*
 The design in this login UI is the implementation of [Sahil Vhora](https://dribbble.com/iamsahilvhora) Password reset flow [design](https://dribbble.com/shots/14324778-Password-Reset-Flow) on [Dribbble](dribbble.com).
 
+## Design by Sahil Vhora
+<img src="https://github.comAbdulrasheed/login_ui_1/screenshots/login_ui_1" alt="Original design" height="480"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
